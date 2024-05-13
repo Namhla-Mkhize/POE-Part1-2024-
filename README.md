@@ -15,7 +15,13 @@ Array Storage: Ingredients and cooking steps are stored in arrays, providing eff
 Usage
 Compile and Run: Compile the program using a C# compiler (e.g., Visual Studio, .NET CLI) and run the compiled executable.
 
-Menu Options: Upon running the program, a menu will be displayed with the following options:
+Menu Options: Upon running the program, a menu will be displayed with the following options: 
+
+ POE Part 2 : Changes  
+1)Some of the major changes to the recipe app is that the user can now enter and store multiple recipes and along with the recipes names unlike previously the user was only limited to entering and storing one recipe 
+2)Another change is that recipes that are stored are now organized on alphabetical order 
+3)Another new addition to the app is that users can now enter how many calories each ingredient consists of as well as which food group a particular ingredient falls under. The app now also allows for the user to calculate the total amount of calories the recipe their creating consists of and there is a function where the app sends a message notifying the user that the recipe exceeds 300 calories.
+
 
 Enter Recipe Details: Input the details of the recipe, including ingredients and cooking steps.
 Display Recipe: View the details of the entered recipe.
